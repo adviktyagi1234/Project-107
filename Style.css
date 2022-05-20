@@ -1,0 +1,53 @@
+body {
+    font-family: 'Smooch', cursive;
+    background: aliceblue;
+    font-size:large;
+}
+
+.main_div {
+  color: orange;
+  text-align: left;
+  text-shadow: 4px 4px 4px;
+  font-size: larger;
+  font-family: 'Smooch', cursive;
+}
+
+.START {
+    text-decoration: burlywood;
+    border-radius: 50%;
+    font-size: large;
+    font-family: 'Smooch', cursive;
+    width: 100;
+    height: 100;
+}
+ 
+.header_div {
+    font-family: 'Smooch', cursive;
+}
+
+.header_div p {
+   font-size: x-large;
+   font-family: 'Smooch', cursive;
+}
+
+#bale {
+    font-size: x-large;
+    font-family: 'Smooch', cursive;
+}
+
+#tale {
+    font-size: x-large;
+    font-family: 'Smooch', cursive;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #00e5ff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #000000;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(32, 210, 226);
+}
